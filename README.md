@@ -1,2 +1,1 @@
-# Boilerplate for my threeJs projects
-
+# 3D Talking Avatar
